@@ -1,0 +1,8 @@
+name = "my-static-site"
+account_id = "b40383bf3afb30ccc7c9a13d6c9b6868"
+workers_dev = true
+main = "src/main.tsx"
+compatibility_date = "2025-02-22"
+
+[site]
+bucket = "./dist"
